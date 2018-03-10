@@ -1,5 +1,5 @@
 # Giggles
-Giggles will randomly giggle every once and a while (not ready for use)
+Giggles will randomly giggle every once in a while (not ready for use)
 
 <div align="center">
   
