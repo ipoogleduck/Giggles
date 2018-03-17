@@ -1,4 +1,4 @@
 ﻿  stdafx.cpp
   Giggles.cpp
-c:\users\oliver\source\repos\giggles\giggles\giggles.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\oliver\source\repos\giggles\giggles\giggles.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Giggles.vcxproj -> C:\Users\Oliver\source\repos\Giggles\Debug\Giggles.exe
