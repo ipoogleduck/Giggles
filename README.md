@@ -1,4 +1,4 @@
-# Giggles 0.3
+# Giggles 0.4
 Giggles stays in the background and will randomly giggle every once in a while (in beta)
 
 # Features
