@@ -1,12 +1,12 @@
-# Giggles 0.4
-Giggles stays in the background and will randomly giggle every once in a while (in beta)
+# Giggles 1.0
+Giggles stays in the background and will randomly giggle every once in a while
 
 # Features
 - Stays in the background and doesn't affect your computer's performance
 - Adjustable settings for the frequency of giggles
 - Installs itself into the startup folder, eliminating the need to open it on restarting your computer
 - Turn it off at any time by opening Giggles Settings
-- Accessible from Veebo at any time (coming soon)
+- Accessible from Veebo by typing "Giggles" (coming soon)
 
 <div align="center">
   
